@@ -1,4 +1,4 @@
-# Aircraft Engine Design Software 1.1 
+# Aircraft Engine Design Software 
 (c) 2022 Ganeshkumar V 
 
 # Release 1.1 features
@@ -14,4 +14,4 @@
   "images/" folder contains Images required for the software.\
   "dependencies/" folder contains Backend programs.\
   "main.py" is the Main program for the Software.\
-  "setup.py" is the setup program required to freeze the software and generate executables.\
+  "setup.py" is the setup program required to freeze the software and generate executables.
