@@ -11,7 +11,7 @@
 
 
 # Folders, Files and their purposes
-  "images/" folder contains Images required for the software.
-  "dependencies/" folder contains Backend programs.
-  "main.py" is the Main program for the Software.
-  "setup.py" is the setup program required to freeze the software and generate executables.
+  "images/" folder contains Images required for the software.\
+  "dependencies/" folder contains Backend programs.\
+  "main.py" is the Main program for the Software.\
+  "setup.py" is the setup program required to freeze the software and generate executables.\
