@@ -2,8 +2,8 @@
 (c) 2022 Ganeshkumar V 
 
 # Release 1.1 features
-  Aircraft Engine Design software 1.1 can be used predict the performances of the Engine provided the flight conditions and mission details.
-  Software takes Flight conditions, Technology Level of the Engines, Engine Size and predicts the performances.
+  Aircraft Engine Design software 1.1 can predict the performances of the Engine, provided the flight conditions and mission details.
+  Software takes Flight conditions, Technology Level of the Engines, Engine size and predicts the performances.
   Software can be used to optimize the engine parameters like Bypass ratio, Compressor Pressure Ratio, Fan Pressure Ratio, Flight Speed and altitude for minimum fuel consumption (TSFC) and to achieve required thrust for the mission (ST).
   Present version can handle Real Turbofan Aircraft Engines
   Seperate Flow and Mixed Flow Turbofan Engine performances can be studied in this version.
