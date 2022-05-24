@@ -1,5 +1,5 @@
 # Aircraft Engine Design Software 
-(c) 2022 Ganeshkumar V 
+(c) 2022 Ganeshkumar V, IIT Gandhinagar, India 
 
 # Release 1.1 features
   Aircraft Engine Design software 1.1 can predict the performances of the Engine, provided the flight conditions and mission details.
